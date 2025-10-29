@@ -67,30 +67,30 @@ It combines the strengths of various models — **SVC, KNN, Random Forest, Decis
 ---
 ## 📁 Project Structure
 
-Heart-Disease-Detector/
-│
-├── backend/
-│ ├── app.py
-│ ├── model/
-│ │ ├── ensemble_model.pkl
-│ │ ├── ada_boost.pkl
-│ │ ├── decision_tree.pkl
-│ │ ├── knn.pkl
-│ │ ├── rf.pkl
-│ │ ├── svc.pkl
-│ └── utils/
-│ └── preprocess.py
-│
-├── frontend/
-│ ├── index.html
-│ ├── script.js
-│ └── style.css
-│
-├── data/
-│ └── heart.csv
-│
-├── requirements.txt
-└── README.md
+Heart-Disease-Detector/  
+│  
+├── backend/  
+│ ├── app.py  
+│ ├── model/  
+│ │ ├── ensemble_model.pkl  
+│ │ ├── ada_boost.pkl  
+│ │ ├── decision_tree.pkl  
+│ │ ├── knn.pkl  
+│ │ ├── rf.pkl  
+│ │ ├── svc.pkl  
+│ └── utils/  
+│ └── preprocess.py  
+│  
+├── frontend/  
+│ ├── index.html  
+│ ├── script.js  
+│ └── style.css  
+│  
+├── data/  
+│ └── heart.csv  
+│  
+├── requirements.txt  
+└── README.md  
 
 ## ⚙️ Setup Instructions
 
